@@ -28,3 +28,17 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/mervecinar/NLP_Artificial_Intelligence_Recipe-Recommendation-System
    cd NLP_Artificial_Intelligence_Recipe-Recommendation-System 
+2. **Install Requirements**:
+    ```bash
+   pip install -r requirements.txt
+
+3. **Run the Application**:
+    ```bash
+     python app.py
+
+ 4. Usage
+On the homepage, enter a sentence in the text input box that reflects your current mood.
+Click the "Analyze" button.
+The application will analyze your mood and suggest appropriate recipes.
+
+
