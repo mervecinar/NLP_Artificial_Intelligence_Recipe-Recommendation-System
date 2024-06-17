@@ -36,9 +36,11 @@ To run this application locally, follow these steps:
     ```bash
      python app.py
 
- 4. Usage
-On the homepage, enter a sentence in the text input box that reflects your current mood.
-Click the "Analyze" button.
-The application will analyze your mood and suggest appropriate recipes.
+4. **Open in Browser**:
+    Navigate to http://127.0.0.1:5000 to start using the application.
 
+## Usage
+- the homepage, enter a sentence in the text input box that reflects your current mood.
+- Click the "Analyze" button.
+- The application will analyze your mood and suggest appropriate recipes.
 
